@@ -11,6 +11,15 @@ Har bir ishga tushish = **bitta yangi video** tayyorlash va joylash.
 - Sotuvchi videolarda CTA: Direct'ga «TARGET» deb yozing — bepul audit.
 - Tag (@sadriddin_abdurahimov, @leverage_mentorlik) Windsor orqali qo'yib bo'lmaydi — egasi qo'lda qo'shadi.
 
+## MUHIM: ishni yarim yo'lda tashlamang
+- Avvalgi ishga tushishlar videoni render qilmasdan yoki joylamasdan tugab qolgan. Sabab: uzoq buyruq (render, push yoki Windsor
+  execute_action) "background"ga o'tkazilgan, sessiya esa natijani kutmasdan javob berib tugagan.
+- Shuning uchun: buyruq yoki tool "moved to the background" desa, uning tugash xabarini KUTING (Monitor bilan until-loop yoki
+  task-notification), keyin keyingi qadamga o'ting. Video Instagram'da joylanib, `posted.md` push qilinmaguncha yakuniy javob yozmang.
+- Render ~30–60 soniya oladi: `python3 engine/make.py ...` ni oddiy (foreground) buyruq sifatida, timeout 600000 bilan ishga tushiring.
+- Ishni boshlashdan oldin tekshiring: `scripts/` da skripti bor-u, `posted.md` da yo'q mavzu bo'lsa (yarim qolgan ish), yangisini emas,
+  o'shani tugating (render yo'q bo'lsa render qiling, joylanmagan bo'lsa joylang).
+
 ## Qadamlar
 1. `topics.md` dan birinchi `[ ]` mavzuni oling.
 2. `scripts/_example.py` ni namuna qilib `scripts/NNNN_qisqa_nom.py` yozing (NNNN = `posted.md` dagi oxirgi raqam + 1).

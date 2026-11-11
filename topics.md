@@ -5,7 +5,7 @@ Ro'yxat tugashiga 10 ta qolganda, oxiriga yangi 30 ta mavzu qo'shing (takrorlanm
 Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 
 - [x] F: Instagram reklamada Advantage+ auditoriya — qachon ishlaydi, qachon yo'q
-- [ ] F: Hook formulalari — birinchi 3 soniyada to'xtatadigan 4 xil boshlanish
+- [x] F: Hook formulalari — birinchi 3 soniyada to'xtatadigan 4 xil boshlanish
 - [ ] S: 30 kun ichida nimalar o'zgaradi — haftama-hafta natija rejasi
 - [ ] F: Lead form yoki sayt — qaysi biri sifatliroq lid beradi
 - [ ] F: Kreativ charchashi — frequency 3 dan oshsa nima qilish kerak
