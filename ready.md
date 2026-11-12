@@ -1,6 +1,5 @@
 # Joylashga tayyor videolar (yuqoridan pastga)
 # fayl | caption
-0010_telegram_bot_lid.mp4 | Telegram botga lid yig'ish qulay, lekin uning ham kamchiliklari bor.
 0011_reklamani_ochirish.mp4 | Reklamani qachon o'chirish kerakligini 3 ta aniq signal ko'rsatadi.
 0012_narx_korsatish.mp4 | Narxni reklamada ko'rsatish lidlarni kamaytiradi, lekin sifatini oshiradi.
 0013_cbo_abo.mp4 | CBO va ABO: byudjetni kampaniya yoki ad set darajasida taqsimlash farqi.
