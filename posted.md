@@ -19,3 +19,4 @@ sayt konversiyasi; retargeting; oferta; haftalik hisobot; muammo-yechim; ish jar
 kimlar uchun; o'zim qilamanmi; bepul audit 15 daqiqa; byudjet teshiklari; boshlash 4 qadam; mijoz qayerda yo'qoladi;
 targetologga 3 savol; shaffoflik.
 0011 | 2026-11-12 18:19 | 0011_reklamani_ochirish.mp4 | Reklamani qachon o'chirish kerakligini 3 ta aniq signal ko'rsatadi. | 18080689463409363
+0012 | 2026-11-12 19:16 | 0012_narx_korsatish.mp4 | Narxni reklamada ko'rsatish lidlarni kamaytiradi, lekin sifatini oshiradi. | 18124150960944393
