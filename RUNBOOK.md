@@ -1,37 +1,35 @@
 # Instagram Reels avtopost — ish tartibi
 
 Akkaunt: **ceo.bilol** (Windsor.ai, connector `instagram`, account `17841474593715307`).
-Har bir ishga tushish = **bitta yangi video** tayyorlash va joylash.
+Har bir ishga tushish = **1 ta tayyor videoni joylash** (A), keyin vaqt bo'lsa **zaxiraga 1 ta yangi video** (B).
 
 ## Qoidalar (egasi belgilagan)
 - Faqat **yangi** videolar. Oldin joylangan mavzu yoki videoni qayta ishlatmang (`posted.md`).
 - Sarlavha (caption) — **bitta qisqa gap, bir qator**. Heshteg, @mention yozilmaydi.
 - Vizual uslub va SFX — `engine/` dagi shablonlar, o'zgartirmang. Musiqa qo'yilmaydi, faqat SFX.
-- Raqamli misollarda `* misol uchun...` izohi bo'lsin.
-- Sotuvchi videolarda CTA: Direct'ga «TARGET» deb yozing — bepul audit.
+- Raqamli misollarda `* misol uchun...` izohi bo'lsin. Sotuvchi videolarda CTA: Direct'ga «TARGET» deb yozing — bepul audit.
 - Tag (@sadriddin_abdurahimov, @leverage_mentorlik) Windsor orqali qo'yib bo'lmaydi — egasi qo'lda qo'shadi.
 
 ## MUHIM: ishni yarim yo'lda tashlamang
-- Avvalgi ishga tushishlar videoni render qilmasdan yoki joylamasdan tugab qolgan. Sabab: uzoq buyruq (render, push yoki Windsor
-  execute_action) "background"ga o'tkazilgan, sessiya esa natijani kutmasdan javob berib tugagan.
-- Shuning uchun: buyruq yoki tool "moved to the background" desa, uning tugash xabarini KUTING (Monitor bilan until-loop yoki
-  task-notification), keyin keyingi qadamga o'ting. Video Instagram'da joylanib, `posted.md` push qilinmaguncha yakuniy javob yozmang.
-- Render ~30–60 soniya oladi: `python3 engine/make.py ...` ni oddiy (foreground) buyruq sifatida, timeout 600000 bilan ishga tushiring.
-- Ishni boshlashdan oldin tekshiring: `scripts/` da skripti bor-u, `posted.md` da yo'q mavzu bo'lsa (yarim qolgan ish), yangisini emas,
-  o'shani tugating (render yo'q bo'lsa render qiling, joylanmagan bo'lsa joylang).
+- Avvalgi ishga tushishlar ~1 daqiqada, hech narsa joylamasdan tugagan. Shuning uchun ENG AVVAL joylash (A) qilinadi —
+  u faqat clone + bitta Windsor chaqiruvi.
+- Biror buyruq yoki tool "moved to the background" desa — uning tugash xabarini kuting, keyin davom eting.
+  A bajarilmaguncha (yoki XATO yozilmaguncha) yakuniy javob yozmang.
 
-## Qadamlar
-1. `topics.md` dan birinchi `[ ]` mavzuni oling.
-2. `scripts/_example.py` ni namuna qilib `scripts/NNNN_qisqa_nom.py` yozing (NNNN = `posted.md` dagi oxirgi raqam + 1).
-   4–5 sahna: hook → 2–3 asosiy sahna → CTA. Matnlar o'zbekcha (lotin), qisqa.
-3. `python3 engine/make.py scripts/NNNN_....py --stills` — `videos/NNNN_..._preview.png` ni oching, matn sig'ishini tekshiring.
-4. `python3 engine/make.py scripts/NNNN_....py` — `videos/NNNN_....mp4`.
-5. `git add scripts videos topics.md && git commit && git push` (avval `git pull --rebase`).
-6. Havola: `https://raw.githubusercontent.com/usmonin2work/ceo-bilol-reels/main/videos/NNNN_....mp4`
-   (push'dan keyin `curl -sI` bilan 200 ekanini tekshiring).
-7. Windsor `execute_action`: connector `instagram`, action `create_video_post`, account `17841474593715307`,
-   params `{video_url, caption: CAPTION, share_to_feed: true}`.
-8. `topics.md` da mavzuni `[x]` qiling, `posted.md` ga qator qo'shing: `NNNN | sana-vaqt | fayl | caption | media_id`. Commit + push.
-9. Xato bo'lsa (Instagram rad etdi va h.k.) — `posted.md` ga `XATO` bilan yozing va hisobotda ayting.
+## A. Tayyor videoni joylash (har safar, birinchi bo'lib)
+1. `ready.md` dagi BIRINCHI qatorni oling: `fayl | caption`.
+   - `ready.md` bo'sh bo'lsa: B ni bajaring (yangi video yasang), keyin shu videoni joylang.
+2. Windsor `execute_action`: connector `instagram`, action `create_video_post`, account `17841474593715307`,
+   params `{"video_url": "https://raw.githubusercontent.com/usmonin2work/ceo-bilol-reels/main/videos/<fayl>", "caption": "<caption>", "share_to_feed": true}`.
+3. Muvaffaqiyatli bo'lsa: o'sha qatorni `ready.md` dan o'chiring, `posted.md` ga qo'shing
+   (`NNNN | sana-vaqt Toshkent | fayl | caption | media_id`), `git rm videos/<fayl>` (Instagram allaqachon yuklab olgan, repo kichik qoladi).
+   `git pull --rebase && git commit && git push`.
+4. Xato bo'lsa: `posted.md` ga `XATO` bilan yozing, qatorni `ready.md` da qoldiring, push qiling.
 
-Eski videolar `videos/` da saqlanadi; repo 1 GB ga yaqinlashsa, 30 kundan eski mp4 larni o'chiring (Instagram ularni allaqachon yuklab olgan).
+## B. Zaxiraga yangi video (faqat `ready.md` da 5 tadan kam qolgan bo'lsa)
+1. `topics.md` dan birinchi `[ ]` mavzu. `scripts/_example.py` namunasida `scripts/NNNN_qisqa_nom.py` yozing
+   (NNNN = scripts/ dagi eng katta raqam + 1). 4 sahna: hook → 2 asosiy sahna → CTA. Matnlar o'zbekcha (lotin), qisqa.
+2. `python3 engine/make.py scripts/NNNN_....py --stills` → `videos/NNNN_..._preview.png` ni Read bilan ko'ring, matn sig'ishini tekshiring.
+3. `python3 engine/make.py scripts/NNNN_....py` (~30–60 s, timeout 600000).
+4. `ready.md` oxiriga `NNNN_....mp4 | CAPTION` qo'shing, `topics.md` da `[x]`. Preview png ni o'chiring. Commit + push.
+5. `topics.md` da 10 tadan kam bo'sh mavzu qolsa — oxiriga 30 ta yangi, takrorlanmaydigan mavzu qo'shing (har 3-chisi S).

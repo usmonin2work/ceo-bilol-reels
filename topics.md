@@ -6,11 +6,11 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 
 - [x] F: Instagram reklamada Advantage+ auditoriya — qachon ishlaydi, qachon yo'q
 - [x] F: Hook formulalari — birinchi 3 soniyada to'xtatadigan 4 xil boshlanish
-- [ ] S: 30 kun ichida nimalar o'zgaradi — haftama-hafta natija rejasi
-- [ ] F: Lead form yoki sayt — qaysi biri sifatliroq lid beradi
-- [ ] F: Kreativ charchashi — frequency 3 dan oshsa nima qilish kerak
-- [ ] S: Bepul auditda topadigan 3 ta eng ko'p uchraydigan xato
-- [ ] F: Look-alike auditoriya — qaysi manbadan qilish kerak
+- [x] S: 30 kun ichida nimalar o'zgaradi — haftama-hafta natija rejasi
+- [x] F: Lead form yoki sayt — qaysi biri sifatliroq lid beradi
+- [x] F: Kreativ charchashi — frequency 3 dan oshsa nima qilish kerak
+- [x] S: Bepul auditda topadigan 3 ta eng ko'p uchraydigan xato
+- [x] F: Look-alike auditoriya — qaysi manbadan qilish kerak
 - [ ] F: UGC video nima va nega reklamada yaxshi ishlaydi
 - [ ] S: Kichik byudjet bilan boshlash mumkinmi — minimal test rejasi
 - [ ] F: Telegram botga lid yig'ish — afzalliklari va kamchiliklari
