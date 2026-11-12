@@ -21,7 +21,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] S: Sizning sohangizda CAC qancha bo'lishi kerak — auditda hisoblaymiz
 - [x] F: Sharhlar va keyslar — ijtimoiy isbot reklamani qanday arzonlashtiradi
 - [x] F: Mavsumiylik — bayram va aksiyalarga reklamani oldindan tayyorlash
-- [ ] S: Targetologga pul to'lash qachon o'zini oqlaydi
+- [x] S: Targetologga pul to'lash qachon o'zini oqlaydi
 - [ ] F: Bir xil reklama, 3 xil matn — A/B test qanday qilinadi
 - [ ] F: Reels reklama vs Stories reklama — qaysi joylashuv nimaga mos
 - [ ] S: Reklama kabineti sizning nomingizda bo'lishi nega muhim
