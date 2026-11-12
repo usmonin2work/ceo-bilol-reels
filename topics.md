@@ -19,7 +19,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] F: Narxni reklamada ko'rsatish kerakmi
 - [x] F: CBO va ABO — byudjetni kampaniya yoki ad set darajasida taqsimlash
 - [x] S: Sizning sohangizda CAC qancha bo'lishi kerak — auditda hisoblaymiz
-- [ ] F: Sharhlar va keyslar — ijtimoiy isbot reklamani qanday arzonlashtiradi
+- [x] F: Sharhlar va keyslar — ijtimoiy isbot reklamani qanday arzonlashtiradi
 - [ ] F: Mavsumiylik — bayram va aksiyalarga reklamani oldindan tayyorlash
 - [ ] S: Targetologga pul to'lash qachon o'zini oqlaydi
 - [ ] F: Bir xil reklama, 3 xil matn — A/B test qanday qilinadi
