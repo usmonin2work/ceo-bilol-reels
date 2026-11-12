@@ -21,3 +21,4 @@ targetologga 3 savol; shaffoflik.
 0011 | 2026-11-12 18:19 | 0011_reklamani_ochirish.mp4 | Reklamani qachon o'chirish kerakligini 3 ta aniq signal ko'rsatadi. | 18080689463409363
 0012 | 2026-11-12 19:16 | 0012_narx_korsatish.mp4 | Narxni reklamada ko'rsatish lidlarni kamaytiradi, lekin sifatini oshiradi. | 18124150960944393
 0013 | 2026-11-12 20:17 | 0013_cbo_abo.mp4 | CBO va ABO: byudjetni kampaniya yoki ad set darajasida taqsimlash farqi. | 17958871578268102
+0014 | 2026-11-12 21:15 | 0014_cac_qancha.mp4 | Sohangizda bitta mijoz qanchaga tushishi kerakligini auditda hisoblaymiz. | 18126597037929536
