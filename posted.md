@@ -5,6 +5,7 @@ NNNN | sana-vaqt (Toshkent) | fayl | caption | media_id
 0001 | 2026-11-12 00:23 | 0001_advantage_auditoriya.mp4 | Advantage+ auditoriya qachon yordam beradi, qachon pulingizni yeydi? | 18119948095966749
 0002 | 2026-11-12 01:17 | 0002_hook_formulalari.mp4 | Reklamangizni birinchi 3 soniyada to'xtatib ko'radigan 4 xil boshlanish. | 18118110548585841
 0003 | 2026-11-12 11:01 | 0003_30_kun_reja.mp4 | Biz bilan ishlashning birinchi 30 kunida haftama-hafta nimalar o'zgaradi. | 18092715944248046
+0004 | 2026-11-12 11:19 | 0004_lead_form_yoki_sayt.mp4 | Lead form tez lid beradi, sayt esa sifatliroq — qaysi biri sizga mos? | 18025790852752059
 
 Eski seriyadagi mavzular (qayta ishlatmang): lid ko'p sotuv yo'q; unit-ekonomika LTV:CAC; byudjetni teskari voronka bilan hisoblash;
 kreativ = targeting; 5 ta qimmat xato; Pixel va CAPI; lidga 5 daqiqada javob; ROAS va foyda; qaysi kanal; masshtablash;
