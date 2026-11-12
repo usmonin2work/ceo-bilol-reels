@@ -14,7 +14,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] F: UGC video nima va nega reklamada yaxshi ishlaydi
 - [x] S: Kichik byudjet bilan boshlash mumkinmi — minimal test rejasi
 - [x] F: Telegram botga lid yig'ish — afzalliklari va kamchiliklari
-- [ ] F: Reklamani qachon o'chirish kerak — 3 ta aniq signal
+- [x] F: Reklamani qachon o'chirish kerak — 3 ta aniq signal
 - [ ] S: Bizning haftalik hisobot qanday ko'rinadi
 - [ ] F: Narxni reklamada ko'rsatish kerakmi
 - [ ] F: CBO va ABO — byudjetni kampaniya yoki ad set darajasida taqsimlash
