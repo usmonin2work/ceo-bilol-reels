@@ -12,7 +12,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] S: Bepul auditda topadigan 3 ta eng ko'p uchraydigan xato
 - [x] F: Look-alike auditoriya — qaysi manbadan qilish kerak
 - [x] F: UGC video nima va nega reklamada yaxshi ishlaydi
-- [ ] S: Kichik byudjet bilan boshlash mumkinmi — minimal test rejasi
+- [x] S: Kichik byudjet bilan boshlash mumkinmi — minimal test rejasi
 - [ ] F: Telegram botga lid yig'ish — afzalliklari va kamchiliklari
 - [ ] F: Reklamani qachon o'chirish kerak — 3 ta aniq signal
 - [ ] S: Bizning haftalik hisobot qanday ko'rinadi
