@@ -31,7 +31,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] F: Offline sotuv bilan reklamani bog'lash — CRM natijasini qaytarish
 - [x] F: Geo-targeting — Toshkent va viloyatlar uchun alohida kampaniya
 - [x] S: Byudjet oshganda CAC o'sib ketmasligi uchun nima qilamiz
-- [ ] F: Video reklamada subtitr nega shart
+- [x] F: Video reklamada subtitr nega shart
 - [ ] F: Landing sahifa uchun 5 soniya testi
 - [ ] S: Biz bilan ishlash bosqichlari — birinchi qo'ng'iroqdan natijagacha
 - [ ] F: Pixel va Conversions API — nega ikkalasi ham kerak
