@@ -35,3 +35,4 @@ targetologga 3 savol; shaffoflik.
 0025 | 2026-11-13 17:17 | 0025_geo_targeting.mp4 | Toshkent va viloyatlar uchun reklamani alohida kampaniyalarga ajrating. | 18119138353818821
 XATO | 2026-11-13 19:11 | 0026_byudjet_oshirish.mp4 | Byudjetni oshirganda CAC o'sib ketmasligi uchun uni bosqichma-bosqich ko'taring. | XATO: Windsor.ai MCP ulanmadi (502), joylanmadi — keyingi ishga tushishda qayta urinish
 0026 | 2026-11-13 20:46 | 0026_byudjet_oshirish.mp4 | Byudjetni oshirganda CAC o'sib ketmasligi uchun uni bosqichma-bosqich ko'taring. | 18677117608008172
+0027 | 2026-11-13 21:36 | 0027_subtitr_shart.mp4 | Video reklamaga subtitr qo'shing: ko'pchilik uni ovozsiz ko'radi. | 17996024886062438
