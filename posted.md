@@ -32,3 +32,4 @@ targetologga 3 savol; shaffoflik.
 0022 | 2026-11-13 14:15 | 0022_lid_sifati.mp4 | Har bir ariza sifatli lid emas: ehtiyoj, byudjet va vaqtni tekshiring. | 18025819178707621
 0023 | 2026-11-13 15:26 | 0023_ishga_tushirish_tayyorgarlik.mp4 | Reklamani yoqishdan oldin 5 ta narsa tayyor bo'lishi kerak. | 18110061254341249
 0024 | 2026-11-13 16:15 | 0024_offline_sotuv_crm.mp4 | Do'kondagi sotuvni ham CRM orqali reklamaga qaytaring. | 18332417047263698
+0025 | 2026-11-13 17:17 | 0025_geo_targeting.mp4 | Toshkent va viloyatlar uchun reklamani alohida kampaniyalarga ajrating. | 18119138353818821
