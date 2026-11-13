@@ -25,7 +25,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] F: Bir xil reklama, 3 xil matn — A/B test qanday qilinadi
 - [x] F: Reels reklama vs Stories reklama — qaysi joylashuv nimaga mos
 - [x] S: Reklama kabineti sizning nomingizda bo'lishi nega muhim
-- [ ] F: Qayta sotuv — eski mijozlarga reklama eng arzon sotuv
+- [x] F: Qayta sotuv — eski mijozlarga reklama eng arzon sotuv
 - [ ] F: Lidni baholash — qaysi arizani sifatli deb hisoblash
 - [ ] S: Ishga tushirishdan oldin nima tayyorlaymiz — 5 ta tayyorgarlik
 - [ ] F: Offline sotuv bilan reklamani bog'lash — CRM natijasini qaytarish
