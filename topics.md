@@ -30,7 +30,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] S: Ishga tushirishdan oldin nima tayyorlaymiz — 5 ta tayyorgarlik
 - [x] F: Offline sotuv bilan reklamani bog'lash — CRM natijasini qaytarish
 - [x] F: Geo-targeting — Toshkent va viloyatlar uchun alohida kampaniya
-- [ ] S: Byudjet oshganda CAC o'sib ketmasligi uchun nima qilamiz
+- [x] S: Byudjet oshganda CAC o'sib ketmasligi uchun nima qilamiz
 - [ ] F: Video reklamada subtitr nega shart
 - [ ] F: Landing sahifa uchun 5 soniya testi
 - [ ] S: Biz bilan ishlash bosqichlari — birinchi qo'ng'iroqdan natijagacha
