@@ -27,7 +27,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] S: Reklama kabineti sizning nomingizda bo'lishi nega muhim
 - [x] F: Qayta sotuv — eski mijozlarga reklama eng arzon sotuv
 - [x] F: Lidni baholash — qaysi arizani sifatli deb hisoblash
-- [ ] S: Ishga tushirishdan oldin nima tayyorlaymiz — 5 ta tayyorgarlik
+- [x] S: Ishga tushirishdan oldin nima tayyorlaymiz — 5 ta tayyorgarlik
 - [ ] F: Offline sotuv bilan reklamani bog'lash — CRM natijasini qaytarish
 - [ ] F: Geo-targeting — Toshkent va viloyatlar uchun alohida kampaniya
 - [ ] S: Byudjet oshganda CAC o'sib ketmasligi uchun nima qilamiz
