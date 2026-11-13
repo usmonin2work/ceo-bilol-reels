@@ -31,3 +31,4 @@ targetologga 3 savol; shaffoflik.
 0021 | 2026-11-13 13:15 | 0021_qayta_sotuv.mp4 | Eski mijozlarga qayta reklama eng arzon sotuv manbai. | 18118534277091606
 0022 | 2026-11-13 14:15 | 0022_lid_sifati.mp4 | Har bir ariza sifatli lid emas: ehtiyoj, byudjet va vaqtni tekshiring. | 18025819178707621
 0023 | 2026-11-13 15:26 | 0023_ishga_tushirish_tayyorgarlik.mp4 | Reklamani yoqishdan oldin 5 ta narsa tayyor bo'lishi kerak. | 18110061254341249
+0024 | 2026-11-13 16:15 | 0024_offline_sotuv_crm.mp4 | Do'kondagi sotuvni ham CRM orqali reklamaga qaytaring. | 18332417047263698
