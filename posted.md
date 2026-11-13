@@ -22,3 +22,4 @@ targetologga 3 savol; shaffoflik.
 0012 | 2026-11-12 19:16 | 0012_narx_korsatish.mp4 | Narxni reklamada ko'rsatish lidlarni kamaytiradi, lekin sifatini oshiradi. | 18124150960944393
 0013 | 2026-11-12 20:17 | 0013_cbo_abo.mp4 | CBO va ABO: byudjetni kampaniya yoki ad set darajasida taqsimlash farqi. | 17958871578268102
 0014 | 2026-11-12 21:15 | 0014_cac_qancha.mp4 | Sohangizda bitta mijoz qanchaga tushishi kerakligini auditda hisoblaymiz. | 18126597037929536
+0015 | 2026-11-13 07:14 | 0015_ijtimoiy_isbot.mp4 | Sharh va keyslar reklamaga ishonchni oshirib, lid narxini tushiradi. | 18201328576386352
