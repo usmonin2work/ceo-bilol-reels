@@ -23,7 +23,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] F: Mavsumiylik — bayram va aksiyalarga reklamani oldindan tayyorlash
 - [x] S: Targetologga pul to'lash qachon o'zini oqlaydi
 - [x] F: Bir xil reklama, 3 xil matn — A/B test qanday qilinadi
-- [ ] F: Reels reklama vs Stories reklama — qaysi joylashuv nimaga mos
+- [x] F: Reels reklama vs Stories reklama — qaysi joylashuv nimaga mos
 - [ ] S: Reklama kabineti sizning nomingizda bo'lishi nega muhim
 - [ ] F: Qayta sotuv — eski mijozlarga reklama eng arzon sotuv
 - [ ] F: Lidni baholash — qaysi arizani sifatli deb hisoblash
