@@ -30,3 +30,4 @@ targetologga 3 savol; shaffoflik.
 0020 | 2026-11-13 12:15 | 0020_kabinet_nomingizda.mp4 | Reklama kabineti va sahifa doim sizning nomingizda bo'lishi kerak. | 18121766362751481
 0021 | 2026-11-13 13:15 | 0021_qayta_sotuv.mp4 | Eski mijozlarga qayta reklama eng arzon sotuv manbai. | 18118534277091606
 0022 | 2026-11-13 14:15 | 0022_lid_sifati.mp4 | Har bir ariza sifatli lid emas: ehtiyoj, byudjet va vaqtni tekshiring. | 18025819178707621
+0023 | 2026-11-13 15:26 | 0023_ishga_tushirish_tayyorgarlik.mp4 | Reklamani yoqishdan oldin 5 ta narsa tayyor bo'lishi kerak. | 18110061254341249
