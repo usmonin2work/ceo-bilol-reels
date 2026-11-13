@@ -32,7 +32,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] F: Geo-targeting — Toshkent va viloyatlar uchun alohida kampaniya
 - [x] S: Byudjet oshganda CAC o'sib ketmasligi uchun nima qilamiz
 - [x] F: Video reklamada subtitr nega shart
-- [ ] F: Landing sahifa uchun 5 soniya testi
+- [x] F: Landing sahifa uchun 5 soniya testi
 - [ ] S: Biz bilan ishlash bosqichlari — birinchi qo'ng'iroqdan natijagacha
 - [ ] F: Pixel va Conversions API — nega ikkalasi ham kerak
 - [ ] F: Karusel reklama — qachon videodan yaxshiroq ishlaydi
