@@ -28,7 +28,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] F: Qayta sotuv — eski mijozlarga reklama eng arzon sotuv
 - [x] F: Lidni baholash — qaysi arizani sifatli deb hisoblash
 - [x] S: Ishga tushirishdan oldin nima tayyorlaymiz — 5 ta tayyorgarlik
-- [ ] F: Offline sotuv bilan reklamani bog'lash — CRM natijasini qaytarish
+- [x] F: Offline sotuv bilan reklamani bog'lash — CRM natijasini qaytarish
 - [ ] F: Geo-targeting — Toshkent va viloyatlar uchun alohida kampaniya
 - [ ] S: Byudjet oshganda CAC o'sib ketmasligi uchun nima qilamiz
 - [ ] F: Video reklamada subtitr nega shart
