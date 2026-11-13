@@ -28,3 +28,4 @@ targetologga 3 savol; shaffoflik.
 0018 | 2026-11-13 10:20 | 0018_ab_test_matn.mp4 | A/B testda bir vaqtda faqat bitta narsani o'zgartiring. | 18116467199127459
 0019 | 2026-11-13 11:15 | 0019_reels_vs_stories.mp4 | Reels va Stories reklamasi turli maqsadlar uchun ishlaydi. | 18054046058815012
 0020 | 2026-11-13 12:15 | 0020_kabinet_nomingizda.mp4 | Reklama kabineti va sahifa doim sizning nomingizda bo'lishi kerak. | 18121766362751481
+0021 | 2026-11-13 13:15 | 0021_qayta_sotuv.mp4 | Eski mijozlarga qayta reklama eng arzon sotuv manbai. | 18118534277091606
