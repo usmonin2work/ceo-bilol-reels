@@ -33,9 +33,9 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] S: Byudjet oshganda CAC o'sib ketmasligi uchun nima qilamiz
 - [x] F: Video reklamada subtitr nega shart
 - [x] F: Landing sahifa uchun 5 soniya testi
-- [ ] S: Biz bilan ishlash bosqichlari — birinchi qo'ng'iroqdan natijagacha
-- [ ] F: Pixel va Conversions API — nega ikkalasi ham kerak
-- [ ] F: Karusel reklama — qachon videodan yaxshiroq ishlaydi
+- [x] S: Biz bilan ishlash bosqichlari — birinchi qo'ng'iroqdan natijagacha (o'tkazildi: "ish jarayoni" takrori)
+- [x] F: Pixel va Conversions API — nega ikkalasi ham kerak (o'tkazildi: eski seriyada bor)
+- [x] F: Karusel reklama — qachon videodan yaxshiroq ishlaydi
 - [ ] S: Birinchi 7 kunda reklama kabinetida nimalarni sozlaymiz
 - [ ] F: Learning phase — nega har kuni reklamani o'zgartirmaslik kerak
 - [ ] F: Lid narxi vs sotuv narxi — qaysi raqamga qarash kerak
