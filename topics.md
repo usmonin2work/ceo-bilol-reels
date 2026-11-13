@@ -37,7 +37,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] F: Pixel va Conversions API — nega ikkalasi ham kerak (o'tkazildi: eski seriyada bor)
 - [x] F: Karusel reklama — qachon videodan yaxshiroq ishlaydi
 - [x] S: Birinchi 7 kunda reklama kabinetida nimalarni sozlaymiz
-- [ ] F: Learning phase — nega har kuni reklamani o'zgartirmaslik kerak
+- [x] F: Learning phase — nega har kuni reklamani o'zgartirmaslik kerak
 - [ ] F: Lid narxi vs sotuv narxi — qaysi raqamga qarash kerak
 - [ ] F: Direct'ga yozish reklamasi — xabarlar kampaniyasi qachon foydali
 - [ ] S: Sotuv bo'limi lidlarni yo'qotmasligi uchun nima maslahat beramiz
