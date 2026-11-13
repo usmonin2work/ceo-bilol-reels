@@ -34,3 +34,33 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [ ] F: Video reklamada subtitr nega shart
 - [ ] F: Landing sahifa uchun 5 soniya testi
 - [ ] S: Biz bilan ishlash bosqichlari — birinchi qo'ng'iroqdan natijagacha
+- [ ] F: Pixel va Conversions API — nega ikkalasi ham kerak
+- [ ] F: Karusel reklama — qachon videodan yaxshiroq ishlaydi
+- [ ] S: Birinchi 7 kunda reklama kabinetida nimalarni sozlaymiz
+- [ ] F: Learning phase — nega har kuni reklamani o'zgartirmaslik kerak
+- [ ] F: Lid narxi vs sotuv narxi — qaysi raqamga qarash kerak
+- [ ] F: Direct'ga yozish reklamasi — xabarlar kampaniyasi qachon foydali
+- [ ] S: Sotuv bo'limi lidlarni yo'qotmasligi uchun nima maslahat beramiz
+- [ ] F: Kreativda yuz ko'rsatish — inson yuzi CTR ga qanday ta'sir qiladi
+- [ ] F: Exclusion auditoriya — mavjud mijozlarni reklamadan chiqarish
+- [ ] S: Raqobatchilar reklamasini tahlil qilib beramiz — Ad Library bilan
+- [ ] F: Reklama matni uzunligi — qisqa yoki uzun matn qachon yutadi
+- [ ] F: Javob tezligi — lidga 5 daqiqada qo'ng'iroq qilish nega muhim
+- [ ] S: Oylik hisobotda qaysi 3 raqamni ko'rsatamiz
+- [ ] F: Broad targeting — qiziqishlarsiz reklama nega ishlashi mumkin
+- [ ] F: Taklif (offer) kuchi — reklamadan oldin taklifni yaxshilash
+- [ ] F: ROAS nima va uni qanday to'g'ri hisoblash kerak
+- [ ] S: Reklama to'xtab qolsa — 24 soat ichida sababini topamiz
+- [ ] F: Kreativlarni yangilash ritmi — har necha haftada yangi video
+- [ ] F: Retarget oynasi — 7, 30 yoki 180 kunlik auditoriya farqi
+- [ ] S: Kichik biznes uchun birinchi oy reklama strategiyasi
+- [ ] F: Bitta mahsulot yoki butun katalog — nimani reklama qilish kerak
+- [ ] F: Instagram profil reklamadan oldin — bio va highlights tayyorligi
+- [ ] S: Bizdan oldin va keyin — kabinet tuzilmasi qanday o'zgaradi
+- [ ] F: Hafta kunlari va soatlar — reklamani jadval bilan ko'rsatish
+- [ ] F: Spam lidlar — soxta arizalarni kamaytirish usullari
+- [ ] S: Byudjetni qayerga sarflash kerakligini auditda ko'rsatamiz
+- [ ] F: Statik rasm yoki video — test qilmasdan qaror qilmang
+- [ ] F: Mijoz sharhini video reklamaga aylantirish
+- [ ] S: Reklama va sotuv voronkasini birgalikda ko'rib chiqamiz
+- [ ] F: Chegirma reklamasi — brendga zarar bermasdan aksiya qilish
