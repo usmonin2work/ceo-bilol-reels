@@ -38,7 +38,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] F: Karusel reklama — qachon videodan yaxshiroq ishlaydi
 - [x] S: Birinchi 7 kunda reklama kabinetida nimalarni sozlaymiz
 - [x] F: Learning phase — nega har kuni reklamani o'zgartirmaslik kerak
-- [ ] F: Lid narxi vs sotuv narxi — qaysi raqamga qarash kerak
+- [x] F: Lid narxi vs sotuv narxi — qaysi raqamga qarash kerak
 - [ ] F: Direct'ga yozish reklamasi — xabarlar kampaniyasi qachon foydali
 - [ ] S: Sotuv bo'limi lidlarni yo'qotmasligi uchun nima maslahat beramiz
 - [ ] F: Kreativda yuz ko'rsatish — inson yuzi CTR ga qanday ta'sir qiladi
