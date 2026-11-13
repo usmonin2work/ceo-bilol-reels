@@ -25,3 +25,4 @@ targetologga 3 savol; shaffoflik.
 0015 | 2026-11-13 07:14 | 0015_ijtimoiy_isbot.mp4 | Sharh va keyslar reklamaga ishonchni oshirib, lid narxini tushiradi. | 18201328576386352
 0016 | 2026-11-13 08:14 | 0016_mavsumiylik.mp4 | Bayram aksiyasi uchun reklamani kamida 3 hafta oldin tayyorlash kerak. | 18127494281298809
 0017 | 2026-11-13 09:14 | 0017_targetolog_oqlaydi.mp4 | Targetolog xarajati sotuvdan kelgan foyda bilan o'lchanadi. | 18028846937877697
+0018 | 2026-11-13 10:20 | 0018_ab_test_matn.mp4 | A/B testda bir vaqtda faqat bitta narsani o'zgartiring. | 18116467199127459
