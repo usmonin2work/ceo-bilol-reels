@@ -26,3 +26,4 @@ targetologga 3 savol; shaffoflik.
 0016 | 2026-11-13 08:14 | 0016_mavsumiylik.mp4 | Bayram aksiyasi uchun reklamani kamida 3 hafta oldin tayyorlash kerak. | 18127494281298809
 0017 | 2026-11-13 09:14 | 0017_targetolog_oqlaydi.mp4 | Targetolog xarajati sotuvdan kelgan foyda bilan o'lchanadi. | 18028846937877697
 0018 | 2026-11-13 10:20 | 0018_ab_test_matn.mp4 | A/B testda bir vaqtda faqat bitta narsani o'zgartiring. | 18116467199127459
+0019 | 2026-11-13 11:15 | 0019_reels_vs_stories.mp4 | Reels va Stories reklamasi turli maqsadlar uchun ishlaydi. | 18054046058815012
