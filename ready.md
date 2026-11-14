@@ -1,6 +1,5 @@
 # Joylashga tayyor videolar (yuqoridan pastga)
 # fayl | caption
-0032_lid_vs_sotuv_narxi.mp4 | Arzon lid har doim arzon sotuv degani emas — sotuv narxiga qarang.
 0033_xabarlar_kampaniyasi.mp4 | Xabarlar kampaniyasi suhbat orqali sotiladigan mahsulotlar uchun eng qulay yo'l.
 0034_lidni_yoqotmaslik.mp4 | Reklamadan kelgan lidni yo'qotmaslik uchun sotuv bo'limiga 3 ta oddiy qoida.
 0035_kreativda_yuz.mp4 | Kreativda inson yuzini ko'rsatish reklamangizni ko'proq to'xtatib ko'radigan qilishi mumkin.
