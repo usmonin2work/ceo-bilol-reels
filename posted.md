@@ -42,3 +42,4 @@ XATO | 2026-11-13 19:11 | 0026_byudjet_oshirish.mp4 | Byudjetni oshirganda CAC o
 0031 | 2026-11-14 10:14 | 0031_learning_phase.mp4 | Reklamani har kuni o'zgartirsangiz, algoritm o'rganishni qaytadan boshlaydi. | 17959317303255924
 0032 | 2026-11-14 11:18 | 0032_lid_vs_sotuv_narxi.mp4 | Arzon lid har doim arzon sotuv degani emas — sotuv narxiga qarang. | 18109944329274408
 0033 | 2026-11-14 12:14 | 0033_xabarlar_kampaniyasi.mp4 | Xabarlar kampaniyasi suhbat orqali sotiladigan mahsulotlar uchun eng qulay yo'l. | 17898929667418528
+0034 | 2026-11-14 13:14 | 0034_lidni_yoqotmaslik.mp4 | Reklamadan kelgan lidni yo'qotmaslik uchun sotuv bo'limiga 3 ta oddiy qoida. | 17891671554476606
