@@ -43,7 +43,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] S: Sotuv bo'limi lidlarni yo'qotmasligi uchun nima maslahat beramiz
 - [x] F: Kreativda yuz ko'rsatish — inson yuzi CTR ga qanday ta'sir qiladi
 - [x] F: Exclusion auditoriya — mavjud mijozlarni reklamadan chiqarish
-- [ ] S: Raqobatchilar reklamasini tahlil qilib beramiz — Ad Library bilan
+- [x] S: Raqobatchilar reklamasini tahlil qilib beramiz — Ad Library bilan
 - [ ] F: Reklama matni uzunligi — qisqa yoki uzun matn qachon yutadi
 - [ ] F: Javob tezligi — lidga 5 daqiqada qo'ng'iroq qilish nega muhim
 - [ ] S: Oylik hisobotda qaysi 3 raqamni ko'rsatamiz
