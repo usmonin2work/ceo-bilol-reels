@@ -48,7 +48,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] F: Javob tezligi — lidga 5 daqiqada qo'ng'iroq qilish nega muhim (o'tkazildi: 0034 bilan takror)
 - [x] S: Oylik hisobotda qaysi 3 raqamni ko'rsatamiz
 - [x] F: Broad targeting — qiziqishlarsiz reklama nega ishlashi mumkin
-- [ ] F: Taklif (offer) kuchi — reklamadan oldin taklifni yaxshilash
+- [x] F: Taklif (offer) kuchi — reklamadan oldin taklifni yaxshilash
 - [ ] F: ROAS nima va uni qanday to'g'ri hisoblash kerak
 - [ ] S: Reklama to'xtab qolsa — 24 soat ichida sababini topamiz
 - [ ] F: Kreativlarni yangilash ritmi — har necha haftada yangi video
