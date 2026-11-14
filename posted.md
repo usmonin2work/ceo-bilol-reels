@@ -49,3 +49,4 @@ XATO | 2026-11-13 19:11 | 0026_byudjet_oshirish.mp4 | Byudjetni oshirganda CAC o
 0038 | 2026-11-14 17:17 | 0038_matn_uzunligi.mp4 | Qisqa yoki uzun reklama matni — qaysi biri yutishi mahsulotingizga bog'liq. | 18221464594351711
 0039 | 2026-11-14 18:21 | 0039_oylik_hisobot.mp4 | Oylik hisobotda sizga faqat biznesingiz uchun muhim 3 ta raqamni ko'rsatamiz. | 17982742515132455
 0040 | 2026-11-14 19:14 | 0040_broad_targeting.mp4 | Qiziqishlarsiz keng auditoriya ba'zan tor targetingdan ham arzon mijoz olib keladi. | 18128935958291262
+0041 | 2026-11-14 20:14 | 0041_taklif_kuchi.mp4 | Reklamani kuchaytirishdan oldin taklifingizni kuchaytiring — aks holda byudjet bekorga ketadi. | 17897283441682688
