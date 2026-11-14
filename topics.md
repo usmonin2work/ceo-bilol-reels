@@ -51,7 +51,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] F: Taklif (offer) kuchi — reklamadan oldin taklifni yaxshilash
 - [x] F: ROAS nima va uni qanday to'g'ri hisoblash kerak (o'tkazildi — eski seriyada 'ROAS va foyda' bor)
 - [x] S: Reklama to'xtab qolsa — 24 soat ichida sababini topamiz
-- [ ] F: Kreativlarni yangilash ritmi — har necha haftada yangi video
+- [x] F: Kreativlarni yangilash ritmi — har necha haftada yangi video
 - [ ] F: Retarget oynasi — 7, 30 yoki 180 kunlik auditoriya farqi
 - [ ] S: Kichik biznes uchun birinchi oy reklama strategiyasi
 - [ ] F: Bitta mahsulot yoki butun katalog — nimani reklama qilish kerak
