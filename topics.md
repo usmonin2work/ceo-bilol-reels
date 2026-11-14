@@ -40,7 +40,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] F: Learning phase — nega har kuni reklamani o'zgartirmaslik kerak
 - [x] F: Lid narxi vs sotuv narxi — qaysi raqamga qarash kerak
 - [x] F: Direct'ga yozish reklamasi — xabarlar kampaniyasi qachon foydali
-- [ ] S: Sotuv bo'limi lidlarni yo'qotmasligi uchun nima maslahat beramiz
+- [x] S: Sotuv bo'limi lidlarni yo'qotmasligi uchun nima maslahat beramiz
 - [ ] F: Kreativda yuz ko'rsatish — inson yuzi CTR ga qanday ta'sir qiladi
 - [ ] F: Exclusion auditoriya — mavjud mijozlarni reklamadan chiqarish
 - [ ] S: Raqobatchilar reklamasini tahlil qilib beramiz — Ad Library bilan
