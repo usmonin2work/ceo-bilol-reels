@@ -37,3 +37,4 @@ XATO | 2026-11-13 19:11 | 0026_byudjet_oshirish.mp4 | Byudjetni oshirganda CAC o
 0026 | 2026-11-13 20:46 | 0026_byudjet_oshirish.mp4 | Byudjetni oshirganda CAC o'sib ketmasligi uchun uni bosqichma-bosqich ko'taring. | 18677117608008172
 0027 | 2026-11-13 21:36 | 0027_subtitr_shart.mp4 | Video reklamaga subtitr qo'shing: ko'pchilik uni ovozsiz ko'radi. | 17996024886062438
 0028 | 2026-11-14 07:14 | 0028_besh_soniya_testi.mp4 | Landing sahifangiz 5 soniyada nimani taklif qilishini aytib bera oladimi? | 18386027905238749
+0029 | 2026-11-14 08:14 | 0029_karusel_reklama.mp4 | Bir nechta mahsulotni ko'rsatmoqchi bo'lsangiz, karusel reklamani sinab ko'ring. | 18025922534716265
