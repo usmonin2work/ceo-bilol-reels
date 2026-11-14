@@ -54,7 +54,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] F: Kreativlarni yangilash ritmi — har necha haftada yangi video
 - [x] F: Retarget oynasi — 7, 30 yoki 180 kunlik auditoriya farqi
 - [x] S: Kichik biznes uchun birinchi oy reklama strategiyasi
-- [ ] F: Bitta mahsulot yoki butun katalog — nimani reklama qilish kerak
+- [x] F: Bitta mahsulot yoki butun katalog — nimani reklama qilish kerak
 - [ ] F: Instagram profil reklamadan oldin — bio va highlights tayyorligi
 - [ ] S: Bizdan oldin va keyin — kabinet tuzilmasi qanday o'zgaradi
 - [ ] F: Hafta kunlari va soatlar — reklamani jadval bilan ko'rsatish
