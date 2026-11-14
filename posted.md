@@ -47,3 +47,4 @@ XATO | 2026-11-13 19:11 | 0026_byudjet_oshirish.mp4 | Byudjetni oshirganda CAC o
 0036 | 2026-11-14 15:14 | 0036_exclusion_auditoriya.mp4 | Mavjud mijozlarni reklamadan chiqarib tashlasangiz, byudjet yangi odamlarga sarflanadi. | 18213586252367897
 0037 | 2026-11-14 16:14 | 0037_raqobatchilar_ad_library.mp4 | Raqobatchilaringiz qaysi reklamalarni aylantirayotganini Ad Library orqali tahlil qilib beramiz. | 18063178124801173
 0038 | 2026-11-14 17:17 | 0038_matn_uzunligi.mp4 | Qisqa yoki uzun reklama matni — qaysi biri yutishi mahsulotingizga bog'liq. | 18221464594351711
+0039 | 2026-11-14 18:21 | 0039_oylik_hisobot.mp4 | Oylik hisobotda sizga faqat biznesingiz uchun muhim 3 ta raqamni ko'rsatamiz. | 17982742515132455
