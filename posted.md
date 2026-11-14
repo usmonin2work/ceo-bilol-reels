@@ -39,3 +39,4 @@ XATO | 2026-11-13 19:11 | 0026_byudjet_oshirish.mp4 | Byudjetni oshirganda CAC o
 0028 | 2026-11-14 07:14 | 0028_besh_soniya_testi.mp4 | Landing sahifangiz 5 soniyada nimani taklif qilishini aytib bera oladimi? | 18386027905238749
 0029 | 2026-11-14 08:14 | 0029_karusel_reklama.mp4 | Bir nechta mahsulotni ko'rsatmoqchi bo'lsangiz, karusel reklamani sinab ko'ring. | 18025922534716265
 0030 | 2026-11-14 09:14 | 0030_birinchi_7_kun.mp4 | Birinchi 7 kunda reklama kabinetida nimalarni sozlashimizni qisqacha ko'rsatamiz. | 18384147763237082
+0031 | 2026-11-14 10:14 | 0031_learning_phase.mp4 | Reklamani har kuni o'zgartirsangiz, algoritm o'rganishni qaytadan boshlaydi. | 17959317303255924
