@@ -4,3 +4,4 @@
 0035_kreativda_yuz.mp4 | Kreativda inson yuzini ko'rsatish reklamangizni ko'proq to'xtatib ko'radigan qilishi mumkin.
 0036_exclusion_auditoriya.mp4 | Mavjud mijozlarni reklamadan chiqarib tashlasangiz, byudjet yangi odamlarga sarflanadi.
 0037_raqobatchilar_ad_library.mp4 | Raqobatchilaringiz qaysi reklamalarni aylantirayotganini Ad Library orqali tahlil qilib beramiz.
+0038_matn_uzunligi.mp4 | Qisqa yoki uzun reklama matni — qaysi biri yutishi mahsulotingizga bog'liq.

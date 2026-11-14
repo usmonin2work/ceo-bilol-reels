@@ -44,7 +44,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] F: Kreativda yuz ko'rsatish — inson yuzi CTR ga qanday ta'sir qiladi
 - [x] F: Exclusion auditoriya — mavjud mijozlarni reklamadan chiqarish
 - [x] S: Raqobatchilar reklamasini tahlil qilib beramiz — Ad Library bilan
-- [ ] F: Reklama matni uzunligi — qisqa yoki uzun matn qachon yutadi
+- [x] F: Reklama matni uzunligi — qisqa yoki uzun matn qachon yutadi
 - [ ] F: Javob tezligi — lidga 5 daqiqada qo'ng'iroq qilish nega muhim
 - [ ] S: Oylik hisobotda qaysi 3 raqamni ko'rsatamiz
 - [ ] F: Broad targeting — qiziqishlarsiz reklama nega ishlashi mumkin
