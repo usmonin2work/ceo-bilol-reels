@@ -64,3 +64,33 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [ ] F: Mijoz sharhini video reklamaga aylantirish
 - [ ] S: Reklama va sotuv voronkasini birgalikda ko'rib chiqamiz
 - [ ] F: Chegirma reklamasi — brendga zarar bermasdan aksiya qilish
+- [ ] F: Reklamada savol bilan boshlash — tomoshabinni o'ylashga majburlash
+- [ ] S: Kabinetingizdagi eng qimmat xatoni 15 daqiqada topamiz
+- [ ] F: Saytning yuklanish tezligi — sekin sahifa lid narxini oshiradi
+- [ ] F: Bir nechta taklifni test qilish — qaysi biri ko'proq ariza beradi
+- [ ] S: Reklamani o'zingiz yuritasizmi yoki mutaxassisga berasizmi — farqi
+- [ ] F: CTR past bo'lsa — muammo kreativdami yoki auditoriyadami
+- [ ] F: Lid formadagi savollar — kam yoki ko'p savol qachon foydali
+- [ ] S: Yangi biznesni reklamaga tayyorlash — biz tekshiradigan ro'yxat
+- [ ] F: Reklama natijasini Excel'da emas, CRM'da kuzatish
+- [ ] F: Engagement kampaniyasi — qachon foydasiz pul sarfi
+- [ ] S: Har hafta qanday qarorlar qabul qilamiz — boshqaruv ritmi
+- [ ] F: Thumbnail va birinchi kadr — Reels reklamada nega muhim
+- [ ] F: Mijoz e'tirozlarini reklama matnida oldindan javoblash
+- [ ] S: Lid narxi oshib ketganda birinchi tekshiradigan 3 joy
+- [ ] F: Bitta kampaniyada juda ko'p reklama — nega zararli
+- [ ] F: Foydalanuvchi yoshi va jinsi — tor cheklash qachon kerak
+- [ ] S: Reklama byudjetini oylik reja asosida taqsimlaymiz
+- [ ] F: Instagram va Facebook — joylashuvlarni ajratish kerakmi
+- [ ] F: Video uzunligi — 15, 30 yoki 60 soniya qaysi biri yaxshi
+- [ ] S: Natija bo'lmasa nima qilamiz — tuzatish rejasi
+- [ ] F: Mijoz yo'li — reklamadan sotuvgacha nechta qadam bor
+- [ ] F: Kafolat va risksiz taklif — ishonchni qanday oshiradi
+- [ ] S: Biznesingiz uchun maqsadli lid narxini birga hisoblaymiz
+- [ ] F: Reklamadagi rang va kontrast — lentada ajralib turish
+- [ ] F: Kommentlarga javob berish — reklama ostidagi izohlar sotadi
+- [ ] S: Reklama kabinetini tartibga keltiramiz — nomlash va tuzilma
+- [ ] F: Qaytib keladigan mijozlar — LTV ni hisoblash nega kerak
+- [ ] F: Bir kunlik byudjetni keskin oshirish xavfi
+- [ ] S: Sotuvchilaringiz uchun lid bilan ishlash skriptini ko'rib chiqamiz
+- [ ] F: Hisobotdagi vanity metrikalar — like va ko'rishlar aldaydi
