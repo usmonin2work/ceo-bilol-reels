@@ -43,3 +43,4 @@ XATO | 2026-11-13 19:11 | 0026_byudjet_oshirish.mp4 | Byudjetni oshirganda CAC o
 0032 | 2026-11-14 11:18 | 0032_lid_vs_sotuv_narxi.mp4 | Arzon lid har doim arzon sotuv degani emas — sotuv narxiga qarang. | 18109944329274408
 0033 | 2026-11-14 12:14 | 0033_xabarlar_kampaniyasi.mp4 | Xabarlar kampaniyasi suhbat orqali sotiladigan mahsulotlar uchun eng qulay yo'l. | 17898929667418528
 0034 | 2026-11-14 13:14 | 0034_lidni_yoqotmaslik.mp4 | Reklamadan kelgan lidni yo'qotmaslik uchun sotuv bo'limiga 3 ta oddiy qoida. | 17891671554476606
+0035 | 2026-11-14 14:13 | 0035_kreativda_yuz.mp4 | Kreativda inson yuzini ko'rsatish reklamangizni ko'proq to'xtatib ko'radigan qilishi mumkin. | 18102079460401273
