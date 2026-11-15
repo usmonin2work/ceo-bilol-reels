@@ -58,7 +58,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] F: Instagram profil reklamadan oldin — bio va highlights tayyorligi
 - [x] S: Bizdan oldin va keyin — kabinet tuzilmasi qanday o'zgaradi
 - [x] F: Hafta kunlari va soatlar — reklamani jadval bilan ko'rsatish
-- [ ] F: Spam lidlar — soxta arizalarni kamaytirish usullari
+- [x] F: Spam lidlar — soxta arizalarni kamaytirish usullari
 - [ ] S: Byudjetni qayerga sarflash kerakligini auditda ko'rsatamiz
 - [ ] F: Statik rasm yoki video — test qilmasdan qaror qilmang
 - [ ] F: Mijoz sharhini video reklamaga aylantirish
