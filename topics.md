@@ -62,7 +62,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] S: Byudjetni qayerga sarflash kerakligini auditda ko'rsatamiz
 - [x] F: Statik rasm yoki video — test qilmasdan qaror qilmang
 - [x] F: Mijoz sharhini video reklamaga aylantirish
-- [ ] S: Reklama va sotuv voronkasini birgalikda ko'rib chiqamiz
+- [x] S: Reklama va sotuv voronkasini birgalikda ko'rib chiqamiz
 - [ ] F: Chegirma reklamasi — brendga zarar bermasdan aksiya qilish
 - [ ] F: Reklamada savol bilan boshlash — tomoshabinni o'ylashga majburlash
 - [ ] S: Kabinetingizdagi eng qimmat xatoni 15 daqiqada topamiz
