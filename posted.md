@@ -62,3 +62,4 @@ XATO | 2026-11-13 19:11 | 0026_byudjet_oshirish.mp4 | Byudjetni oshirganda CAC o
 0051 | 2026-11-15 15:14 | 0051_byudjet_xaritasi.mp4 | Byudjetingizning qaysi qismi sotuv keltirib, qaysi qismi bekorga ketayotganini auditda ko'rsatamiz. | 18098507921159480
 0052 | 2026-11-15 16:15 | 0052_rasm_yoki_video.mp4 | Rasm yoki video — qaysi biri ishlashini taxmin qilmang, bir xil byudjetda sinab ko'ring. | 18211978645367446
 0053 | 2026-11-15 17:15 | 0053_sharhdan_reklama.mp4 | Mamnun mijozning bitta sharhi yaxshi tayyorlansa, eng ishonchli video reklamaga aylanadi. | 18136655899664823
+0054 | 2026-11-15 18:17 | 0054_reklama_va_voronka.mp4 | Reklama va sotuv bo'limini alohida emas, bitta voronka sifatida birga ko'rib chiqamiz. | 17998221765104649
