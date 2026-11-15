@@ -66,7 +66,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] F: Chegirma reklamasi — brendga zarar bermasdan aksiya qilish
 - [x] F: Reklamada savol bilan boshlash — tomoshabinni o'ylashga majburlash
 - [x] S: Kabinetingizdagi eng qimmat xatoni 15 daqiqada topamiz
-- [ ] F: Saytning yuklanish tezligi — sekin sahifa lid narxini oshiradi
+- [x] F: Saytning yuklanish tezligi — sekin sahifa lid narxini oshiradi
 - [ ] F: Bir nechta taklifni test qilish — qaysi biri ko'proq ariza beradi
 - [ ] S: Reklamani o'zingiz yuritasizmi yoki mutaxassisga berasizmi — farqi
 - [ ] F: CTR past bo'lsa — muammo kreativdami yoki auditoriyadami
