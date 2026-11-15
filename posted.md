@@ -54,3 +54,4 @@ XATO | 2026-11-13 19:11 | 0026_byudjet_oshirish.mp4 | Byudjetni oshirganda CAC o
 0043 | 2026-11-15 07:19 | 0043_kreativ_ritmi.mp4 | Eng yaxshi kreativ ham charchaydi — yangilarini har 2–3 haftada qo'shib boring. | 18116409740595537
 0044 | 2026-11-15 08:14 | 0044_retarget_oynasi.mp4 | Retargetda 7, 30 va 180 kunlik auditoriyaga bir xil reklama ko'rsatish — pulni sovurish. | 18104844194048728
 0045 | 2026-11-15 09:14 | 0045_birinchi_oy.mp4 | Kichik biznes reklamaning birinchi oyida sotuvdan oldin to'g'ri ma'lumot yig'ishi kerak. | 17912691924577273
+0046 | 2026-11-15 10:14 | 0046_mahsulot_yoki_katalog.mp4 | Butun katalogni emas, avval eng ko'p sotiladigan bitta mahsulotni reklama qiling. | 17915137767481142
