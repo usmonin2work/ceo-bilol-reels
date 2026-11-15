@@ -68,7 +68,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] S: Kabinetingizdagi eng qimmat xatoni 15 daqiqada topamiz
 - [x] F: Saytning yuklanish tezligi — sekin sahifa lid narxini oshiradi
 - [x] F: Bir nechta taklifni test qilish — qaysi biri ko'proq ariza beradi
-- [ ] S: Reklamani o'zingiz yuritasizmi yoki mutaxassisga berasizmi — farqi
+- [x] S: Reklamani o'zingiz yuritasizmi yoki mutaxassisga berasizmi — farqi
 - [ ] F: CTR past bo'lsa — muammo kreativdami yoki auditoriyadami
 - [ ] F: Lid formadagi savollar — kam yoki ko'p savol qachon foydali
 - [ ] S: Yangi biznesni reklamaga tayyorlash — biz tekshiradigan ro'yxat
