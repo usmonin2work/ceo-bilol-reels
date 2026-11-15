@@ -60,7 +60,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] F: Hafta kunlari va soatlar — reklamani jadval bilan ko'rsatish
 - [x] F: Spam lidlar — soxta arizalarni kamaytirish usullari
 - [x] S: Byudjetni qayerga sarflash kerakligini auditda ko'rsatamiz
-- [ ] F: Statik rasm yoki video — test qilmasdan qaror qilmang
+- [x] F: Statik rasm yoki video — test qilmasdan qaror qilmang
 - [ ] F: Mijoz sharhini video reklamaga aylantirish
 - [ ] S: Reklama va sotuv voronkasini birgalikda ko'rib chiqamiz
 - [ ] F: Chegirma reklamasi — brendga zarar bermasdan aksiya qilish
