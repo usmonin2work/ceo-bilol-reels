@@ -56,7 +56,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] S: Kichik biznes uchun birinchi oy reklama strategiyasi
 - [x] F: Bitta mahsulot yoki butun katalog — nimani reklama qilish kerak
 - [x] F: Instagram profil reklamadan oldin — bio va highlights tayyorligi
-- [ ] S: Bizdan oldin va keyin — kabinet tuzilmasi qanday o'zgaradi
+- [x] S: Bizdan oldin va keyin — kabinet tuzilmasi qanday o'zgaradi
 - [ ] F: Hafta kunlari va soatlar — reklamani jadval bilan ko'rsatish
 - [ ] F: Spam lidlar — soxta arizalarni kamaytirish usullari
 - [ ] S: Byudjetni qayerga sarflash kerakligini auditda ko'rsatamiz
