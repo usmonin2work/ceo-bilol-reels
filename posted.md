@@ -60,3 +60,4 @@ XATO | 2026-11-13 19:11 | 0026_byudjet_oshirish.mp4 | Byudjetni oshirganda CAC o
 0049 | 2026-11-15 13:18 | 0049_reklama_jadvali.mp4 | Mijozlaringiz qaysi soatlarda yozishini bilsangiz, reklamani aynan o'sha vaqtga jamlash mumkin. | 18109308914569649
 0050 | 2026-11-15 14:14 | 0050_spam_lidlar.mp4 | Soxta arizalarni kamaytirsangiz, reklama byudjeti haqiqiy mijozlarga ketadi. | 18127077806295873
 0051 | 2026-11-15 15:14 | 0051_byudjet_xaritasi.mp4 | Byudjetingizning qaysi qismi sotuv keltirib, qaysi qismi bekorga ketayotganini auditda ko'rsatamiz. | 18098507921159480
+0052 | 2026-11-15 16:15 | 0052_rasm_yoki_video.mp4 | Rasm yoki video — qaysi biri ishlashini taxmin qilmang, bir xil byudjetda sinab ko'ring. | 18211978645367446
