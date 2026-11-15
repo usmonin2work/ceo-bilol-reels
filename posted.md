@@ -57,3 +57,4 @@ XATO | 2026-11-13 19:11 | 0026_byudjet_oshirish.mp4 | Byudjetni oshirganda CAC o
 0046 | 2026-11-15 10:14 | 0046_mahsulot_yoki_katalog.mp4 | Butun katalogni emas, avval eng ko'p sotiladigan bitta mahsulotni reklama qiling. | 17915137767481142
 0047 | 2026-11-15 11:14 | 0047_profil_tayyorligi.mp4 | Reklamani yoqishdan oldin profilingizni tayyorlang — mijoz avval bio va highlights'ga qaraydi. | 17898995277413494
 0048 | 2026-11-15 12:14 | 0048_kabinet_tuzilmasi.mp4 | Tartibsiz reklama kabinetini aniq tuzilmaga keltirsak, byudjet qayerga ketayotgani ko'rinadi. | 18341400487275250
+0049 | 2026-11-15 13:18 | 0049_reklama_jadvali.mp4 | Mijozlaringiz qaysi soatlarda yozishini bilsangiz, reklamani aynan o'sha vaqtga jamlash mumkin. | 18109308914569649
