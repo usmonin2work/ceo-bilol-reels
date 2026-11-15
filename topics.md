@@ -69,7 +69,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] F: Saytning yuklanish tezligi — sekin sahifa lid narxini oshiradi
 - [x] F: Bir nechta taklifni test qilish — qaysi biri ko'proq ariza beradi
 - [x] S: Reklamani o'zingiz yuritasizmi yoki mutaxassisga berasizmi — farqi
-- [ ] F: CTR past bo'lsa — muammo kreativdami yoki auditoriyadami
+- [x] F: CTR past bo'lsa — muammo kreativdami yoki auditoriyadami
 - [ ] F: Lid formadagi savollar — kam yoki ko'p savol qachon foydali
 - [ ] S: Yangi biznesni reklamaga tayyorlash — biz tekshiradigan ro'yxat
 - [ ] F: Reklama natijasini Excel'da emas, CRM'da kuzatish
