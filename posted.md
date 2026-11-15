@@ -51,3 +51,4 @@ XATO | 2026-11-13 19:11 | 0026_byudjet_oshirish.mp4 | Byudjetni oshirganda CAC o
 0040 | 2026-11-14 19:14 | 0040_broad_targeting.mp4 | Qiziqishlarsiz keng auditoriya ba'zan tor targetingdan ham arzon mijoz olib keladi. | 18128935958291262
 0041 | 2026-11-14 20:14 | 0041_taklif_kuchi.mp4 | Reklamani kuchaytirishdan oldin taklifingizni kuchaytiring — aks holda byudjet bekorga ketadi. | 17897283441682688
 0042 | 2026-11-14 21:14 | 0042_reklama_toxtasa.mp4 | Reklamangiz birdan to'xtab qolsa, sababini 24 soat ichida topib, qayta ishga tushiramiz. | 18004850978806372
+0043 | 2026-11-15 07:19 | 0043_kreativ_ritmi.mp4 | Eng yaxshi kreativ ham charchaydi — yangilarini har 2–3 haftada qo'shib boring. | 18116409740595537
