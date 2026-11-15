@@ -64,3 +64,4 @@ XATO | 2026-11-13 19:11 | 0026_byudjet_oshirish.mp4 | Byudjetni oshirganda CAC o
 0053 | 2026-11-15 17:15 | 0053_sharhdan_reklama.mp4 | Mamnun mijozning bitta sharhi yaxshi tayyorlansa, eng ishonchli video reklamaga aylanadi. | 18136655899664823
 0054 | 2026-11-15 18:17 | 0054_reklama_va_voronka.mp4 | Reklama va sotuv bo'limini alohida emas, bitta voronka sifatida birga ko'rib chiqamiz. | 17998221765104649
 0055 | 2026-11-15 19:19 | 0055_chegirma_reklamasi.mp4 | Chegirmani doimiy emas, sababli va muddatli qiling — shunda brend arzonlashmaydi. | 17970879249206720
+0056 | 2026-11-15 20:14 | 0056_savol_bilan_boshlash.mp4 | Reklamani to'g'ri savol bilan boshlasangiz, tomoshabin javobni bilish uchun oxirigacha ko'radi. | 17919192852471362
