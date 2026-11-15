@@ -64,7 +64,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] F: Mijoz sharhini video reklamaga aylantirish
 - [x] S: Reklama va sotuv voronkasini birgalikda ko'rib chiqamiz
 - [x] F: Chegirma reklamasi — brendga zarar bermasdan aksiya qilish
-- [ ] F: Reklamada savol bilan boshlash — tomoshabinni o'ylashga majburlash
+- [x] F: Reklamada savol bilan boshlash — tomoshabinni o'ylashga majburlash
 - [ ] S: Kabinetingizdagi eng qimmat xatoni 15 daqiqada topamiz
 - [ ] F: Saytning yuklanish tezligi — sekin sahifa lid narxini oshiradi
 - [ ] F: Bir nechta taklifni test qilish — qaysi biri ko'proq ariza beradi
