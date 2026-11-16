@@ -72,3 +72,4 @@ XATO | 2026-11-13 19:11 | 0026_byudjet_oshirish.mp4 | Byudjetni oshirganda CAC o
 0061 | 2026-11-16 10:14 | 0061_ctr_past.mp4 | CTR past bo'lsa, avval muammo kreativdami yoki auditoriyadami — shuni aniqlab oling. | 18139579105709831
 0062 | 2026-11-16 11:15 | 0062_lid_forma_savollar.mp4 | Lid formadagi savollar soni arizaning ham soniga, ham sifatiga bevosita ta'sir qiladi. | 18071263136788767
 0063 | 2026-11-16 12:20 | 0063_yangi_biznes_tayyorlik.mp4 | Yangi biznesda reklamani yoqishdan oldin taklif, narx va javob berish tizimi tayyor bo'lishi kerak. | 18099858503109530
+0064 | 2026-11-16 13:18 | 0064_excel_emas_crm.mp4 | Arizalarni Excel'da yig'sangiz, qaysi reklama sotuv olib kelganini hech qachon aniq bilmaysiz. | XATO: execute_action ruxsat berilmadi (auto mode klassifikatori rad etdi)
