@@ -66,3 +66,4 @@ XATO | 2026-11-13 19:11 | 0026_byudjet_oshirish.mp4 | Byudjetni oshirganda CAC o
 0055 | 2026-11-15 19:19 | 0055_chegirma_reklamasi.mp4 | Chegirmani doimiy emas, sababli va muddatli qiling — shunda brend arzonlashmaydi. | 17970879249206720
 0056 | 2026-11-15 20:14 | 0056_savol_bilan_boshlash.mp4 | Reklamani to'g'ri savol bilan boshlasangiz, tomoshabin javobni bilish uchun oxirigacha ko'radi. | 17919192852471362
 0057 | 2026-11-15 21:14 | 0057_eng_qimmat_xato.mp4 | Kabinetingizdagi eng qimmatga tushayotgan bitta xatoni 15 daqiqalik auditda topib beramiz. | 18035970671909292
+0058 | 2026-11-16 07:14 | 0058_sayt_tezligi.mp4 | Sahifangiz sekin ochilsa, reklamaga to'lagan klikingiz ariza bo'lmasdan yo'qoladi. | 18120878917977784
