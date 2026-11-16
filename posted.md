@@ -68,3 +68,4 @@ XATO | 2026-11-13 19:11 | 0026_byudjet_oshirish.mp4 | Byudjetni oshirganda CAC o
 0057 | 2026-11-15 21:14 | 0057_eng_qimmat_xato.mp4 | Kabinetingizdagi eng qimmatga tushayotgan bitta xatoni 15 daqiqalik auditda topib beramiz. | 18035970671909292
 0058 | 2026-11-16 07:14 | 0058_sayt_tezligi.mp4 | Sahifangiz sekin ochilsa, reklamaga to'lagan klikingiz ariza bo'lmasdan yo'qoladi. | 18120878917977784
 0059 | 2026-11-16 08:14 | 0059_taklif_testi.mp4 | Qaysi taklif ko'proq ariza berishini taxmin qilmang — bir nechtasini bir vaqtda sinab ko'ring. | 17918722950544132
+0060 | 2026-11-16 09:19 | 0060_ozingiz_yoki_mutaxassis.mp4 | Reklamani o'zingiz yuritasizmi yoki mutaxassisga berasizmi — asosiy farq vaqt va arizaning narxida. | 18113712821194054
