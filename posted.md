@@ -79,3 +79,4 @@ XATO | 2026-11-13 19:11 | 0026_byudjet_oshirish.mp4 | Byudjetni oshirganda CAC o
 0067 | 2026-11-16 17:19 | 0067_birinchi_kadr.mp4 | Reels reklamada odam birinchi kadrga qarab to'xtaydi yoki o'tib ketadi — shuning uchun u eng muhim kadr. | 18115298693178809
 0068 | 2026-11-16 18:22 | 0068_etirozlar_oldindan.mp4 | Mijoz e'tirozlariga reklama matnining o'zida oldindan javob bersangiz, Direct'da savol kamayib, ariza ko'payadi. | 18002168406032478
 0069 | 2026-11-16 19:19 | 0069_lid_narxi_oshdi.mp4 | Lid narxi oshib ketsa, byudjetni o'zgartirishdan oldin kreativ, auditoriya va taklifni tekshiring. | 18111670706266415
+0070 | 2026-11-16 20:19 | 0070_kop_reklama_bitta_kampaniya.mp4 | Bitta kampaniyada reklama juda ko'p bo'lsa, byudjet bo'linib ketadi va hech biri yaxshi ishlamaydi. | 18110194010194373
