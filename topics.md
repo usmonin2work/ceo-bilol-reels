@@ -71,7 +71,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] S: Reklamani o'zingiz yuritasizmi yoki mutaxassisga berasizmi — farqi
 - [x] F: CTR past bo'lsa — muammo kreativdami yoki auditoriyadami
 - [x] F: Lid formadagi savollar — kam yoki ko'p savol qachon foydali
-- [ ] S: Yangi biznesni reklamaga tayyorlash — biz tekshiradigan ro'yxat
+- [x] S: Yangi biznesni reklamaga tayyorlash — biz tekshiradigan ro'yxat
 - [ ] F: Reklama natijasini Excel'da emas, CRM'da kuzatish
 - [ ] F: Engagement kampaniyasi — qachon foydasiz pul sarfi
 - [ ] S: Har hafta qanday qarorlar qabul qilamiz — boshqaruv ritmi
