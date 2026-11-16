@@ -82,7 +82,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] F: Foydalanuvchi yoshi va jinsi — tor cheklash qachon kerak
 - [x] S: Reklama byudjetini oylik reja asosida taqsimlaymiz
 - [x] F: Instagram va Facebook — joylashuvlarni ajratish kerakmi
-- [ ] F: Video uzunligi — 15, 30 yoki 60 soniya qaysi biri yaxshi
+- [x] F: Video uzunligi — 15, 30 yoki 60 soniya qaysi biri yaxshi
 - [ ] S: Natija bo'lmasa nima qilamiz — tuzatish rejasi
 - [ ] F: Mijoz yo'li — reklamadan sotuvgacha nechta qadam bor
 - [ ] F: Kafolat va risksiz taklif — ishonchni qanday oshiradi
