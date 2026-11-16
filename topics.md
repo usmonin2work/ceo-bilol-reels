@@ -73,7 +73,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] F: Lid formadagi savollar — kam yoki ko'p savol qachon foydali
 - [x] S: Yangi biznesni reklamaga tayyorlash — biz tekshiradigan ro'yxat
 - [x] F: Reklama natijasini Excel'da emas, CRM'da kuzatish
-- [ ] F: Engagement kampaniyasi — qachon foydasiz pul sarfi
+- [x] F: Engagement kampaniyasi — qachon foydasiz pul sarfi
 - [ ] S: Har hafta qanday qarorlar qabul qilamiz — boshqaruv ritmi
 - [ ] F: Thumbnail va birinchi kadr — Reels reklamada nega muhim
 - [ ] F: Mijoz e'tirozlarini reklama matnida oldindan javoblash
