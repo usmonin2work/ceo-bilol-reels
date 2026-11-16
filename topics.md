@@ -77,7 +77,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] S: Har hafta qanday qarorlar qabul qilamiz — boshqaruv ritmi
 - [x] F: Thumbnail va birinchi kadr — Reels reklamada nega muhim
 - [x] F: Mijoz e'tirozlarini reklama matnida oldindan javoblash
-- [ ] S: Lid narxi oshib ketganda birinchi tekshiradigan 3 joy
+- [x] S: Lid narxi oshib ketganda birinchi tekshiradigan 3 joy
 - [ ] F: Bitta kampaniyada juda ko'p reklama — nega zararli
 - [ ] F: Foydalanuvchi yoshi va jinsi — tor cheklash qachon kerak
 - [ ] S: Reklama byudjetini oylik reja asosida taqsimlaymiz
