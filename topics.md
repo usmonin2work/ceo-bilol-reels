@@ -80,7 +80,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] S: Lid narxi oshib ketganda birinchi tekshiradigan 3 joy
 - [x] F: Bitta kampaniyada juda ko'p reklama — nega zararli
 - [x] F: Foydalanuvchi yoshi va jinsi — tor cheklash qachon kerak
-- [ ] S: Reklama byudjetini oylik reja asosida taqsimlaymiz
+- [x] S: Reklama byudjetini oylik reja asosida taqsimlaymiz
 - [ ] F: Instagram va Facebook — joylashuvlarni ajratish kerakmi
 - [ ] F: Video uzunligi — 15, 30 yoki 60 soniya qaysi biri yaxshi
 - [ ] S: Natija bo'lmasa nima qilamiz — tuzatish rejasi
