@@ -77,3 +77,4 @@ XATO | 2026-11-13 19:11 | 0026_byudjet_oshirish.mp4 | Byudjetni oshirganda CAC o
 0065 | 2026-11-16 15:14 | 0065_engagement_kampaniya.mp4 | Layk va izoh ko'p bo'lsa ham, Engagement kampaniyasi ariza va sotuv uchun mo'ljallanmagan. | 18120112387811744
 0066 | 2026-11-16 16:15 | 0066_haftalik_qarorlar.mp4 | Reklamani his bilan emas, har hafta aniq raqamlarga qarab qaror qabul qilib boshqaramiz. | 18116602496621640
 0067 | 2026-11-16 17:19 | 0067_birinchi_kadr.mp4 | Reels reklamada odam birinchi kadrga qarab to'xtaydi yoki o'tib ketadi — shuning uchun u eng muhim kadr. | 18115298693178809
+0068 | 2026-11-16 18:22 | 0068_etirozlar_oldindan.mp4 | Mijoz e'tirozlariga reklama matnining o'zida oldindan javob bersangiz, Direct'da savol kamayib, ariza ko'payadi. | 18002168406032478
