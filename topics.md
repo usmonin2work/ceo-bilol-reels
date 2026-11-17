@@ -99,7 +99,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] F: Bitta reklamada bitta g'oya — ko'p xabar nega chalkashtiradi
 - [x] F: Reklama matnidagi CTA — "batafsil" emas, aniq harakat yozish
 - [x] S: Birinchi oyda qaysi raqamlarni maqsad qilib qo'yamiz
-- [ ] F: Reels reklamada matn ekranda qancha turishi kerak
+- [x] F: Reels reklamada matn ekranda qancha turishi kerak
 - [ ] F: Mahsulotni ishlatib ko'rsatish — demo video nega sotadi
 - [ ] S: Lidlaringiz sifatini 3 ta savol bilan tekshirib beramiz
 - [ ] F: Muammo — yechim — natija: oddiy reklama ssenariysi
