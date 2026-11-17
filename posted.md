@@ -94,3 +94,4 @@ XATO | 2026-11-13 19:11 | 0026_byudjet_oshirish.mp4 | Byudjetni oshirganda CAC o
 0082 | 2026-11-17 17:17 | 0082_ltv_hisoblash.mp4 | Mijoz bir marta emas, qayta-qayta xarid qilsa, reklamaga qancha sarflash mumkinligini LTV ko'rsatadi. | 18149513089575651
 0083 | 2026-11-17 18:19 | 0083_byudjetni_keskin_oshirish.mp4 | Ishlayotgan reklamaning kunlik byudjetini birdan ikki barobar oshirsangiz, natija yaxshilanish o'rniga tushib ketishi mumkin. | 18145680961720334
 0084 | 2026-11-17 19:18 | 0084_lid_skripti.mp4 | Reklama lid olib kelsa-yu sotuvchi tayyor skriptsiz gaplashsa, pullik arizalar sotuvga aylanmay qoladi. | 17918132142550328
+0085 | 2026-11-17 20:17 | 0085_vanity_metrikalar.mp4 | Ko'p like va ko'rishlar chiroyli ko'rinadi, lekin reklama samarasini faqat arizalar va sotuvlar ko'rsatadi. | 18648759046061774
