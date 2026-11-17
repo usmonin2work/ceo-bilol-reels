@@ -91,7 +91,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] F: Kommentlarga javob berish — reklama ostidagi izohlar sotadi
 - [x] S: Reklama kabinetini tartibga keltiramiz — nomlash va tuzilma
 - [x] F: Qaytib keladigan mijozlar — LTV ni hisoblash nega kerak
-- [ ] F: Bir kunlik byudjetni keskin oshirish xavfi
+- [x] F: Bir kunlik byudjetni keskin oshirish xavfi
 - [ ] S: Sotuvchilaringiz uchun lid bilan ishlash skriptini ko'rib chiqamiz
 - [ ] F: Hisobotdagi vanity metrikalar — like va ko'rishlar aldaydi
 - [ ] F: Reklamada ijtimoiy raqamlar — "1000+ mijoz" kabi dalillar qachon ishlaydi
