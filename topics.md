@@ -85,7 +85,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] F: Video uzunligi — 15, 30 yoki 60 soniya qaysi biri yaxshi
 - [x] S: Natija bo'lmasa nima qilamiz — tuzatish rejasi
 - [x] F: Mijoz yo'li — reklamadan sotuvgacha nechta qadam bor
-- [ ] F: Kafolat va risksiz taklif — ishonchni qanday oshiradi
+- [x] F: Kafolat va risksiz taklif — ishonchni qanday oshiradi
 - [ ] S: Biznesingiz uchun maqsadli lid narxini birga hisoblaymiz
 - [ ] F: Reklamadagi rang va kontrast — lentada ajralib turish
 - [ ] F: Kommentlarga javob berish — reklama ostidagi izohlar sotadi
