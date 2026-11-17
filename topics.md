@@ -89,7 +89,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] S: Biznesingiz uchun maqsadli lid narxini birga hisoblaymiz
 - [x] F: Reklamadagi rang va kontrast — lentada ajralib turish
 - [x] F: Kommentlarga javob berish — reklama ostidagi izohlar sotadi
-- [ ] S: Reklama kabinetini tartibga keltiramiz — nomlash va tuzilma
+- [x] S: Reklama kabinetini tartibga keltiramiz — nomlash va tuzilma
 - [ ] F: Qaytib keladigan mijozlar — LTV ni hisoblash nega kerak
 - [ ] F: Bir kunlik byudjetni keskin oshirish xavfi
 - [ ] S: Sotuvchilaringiz uchun lid bilan ishlash skriptini ko'rib chiqamiz
