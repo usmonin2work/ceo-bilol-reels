@@ -92,3 +92,4 @@ XATO | 2026-11-13 19:11 | 0026_byudjet_oshirish.mp4 | Byudjetni oshirganda CAC o
 0080 | 2026-11-17 15:14 | 0080_kommentlarga_javob.mp4 | Reklama ostidagi izohlarga tez va aniq javob berish ishonchni oshiradi va arizaga aylanadi. | 18078254123729453
 0081 | 2026-11-17 16:17 | 0081_kabinet_tartibi.mp4 | Reklama kabinetida aniq nomlash va tuzilma bo'lsa, qaysi reklama ishlayotganini bir qarashda ko'rasiz. | 17946139215094244
 0082 | 2026-11-17 17:17 | 0082_ltv_hisoblash.mp4 | Mijoz bir marta emas, qayta-qayta xarid qilsa, reklamaga qancha sarflash mumkinligini LTV ko'rsatadi. | 18149513089575651
+0083 | 2026-11-17 18:19 | 0083_byudjetni_keskin_oshirish.mp4 | Ishlayotgan reklamaning kunlik byudjetini birdan ikki barobar oshirsangiz, natija yaxshilanish o'rniga tushib ketishi mumkin. | 18145680961720334
