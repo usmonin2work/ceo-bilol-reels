@@ -95,7 +95,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] S: Sotuvchilaringiz uchun lid bilan ishlash skriptini ko'rib chiqamiz
 - [x] F: Hisobotdagi vanity metrikalar — like va ko'rishlar aldaydi
 - [x] F: Reklamada ijtimoiy raqamlar — "1000+ mijoz" kabi dalillar qachon ishlaydi
-- [ ] S: Reklamangiz qaysi auditoriyaga pul sarflayotganini auditda ko'rsatamiz
+- [x] S: Reklamangiz qaysi auditoriyaga pul sarflayotganini auditda ko'rsatamiz
 - [ ] F: Bitta reklamada bitta g'oya — ko'p xabar nega chalkashtiradi
 - [ ] F: Reklama matnidagi CTA — "batafsil" emas, aniq harakat yozish
 - [ ] S: Birinchi oyda qaysi raqamlarni maqsad qilib qo'yamiz
