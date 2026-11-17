@@ -86,7 +86,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] S: Natija bo'lmasa nima qilamiz — tuzatish rejasi
 - [x] F: Mijoz yo'li — reklamadan sotuvgacha nechta qadam bor
 - [x] F: Kafolat va risksiz taklif — ishonchni qanday oshiradi
-- [ ] S: Biznesingiz uchun maqsadli lid narxini birga hisoblaymiz
+- [x] S: Biznesingiz uchun maqsadli lid narxini birga hisoblaymiz
 - [ ] F: Reklamadagi rang va kontrast — lentada ajralib turish
 - [ ] F: Kommentlarga javob berish — reklama ostidagi izohlar sotadi
 - [ ] S: Reklama kabinetini tartibga keltiramiz — nomlash va tuzilma
