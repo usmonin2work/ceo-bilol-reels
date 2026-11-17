@@ -84,3 +84,4 @@ XATO | 2026-11-13 19:11 | 0026_byudjet_oshirish.mp4 | Byudjetni oshirganda CAC o
 0072 | 2026-11-17 07:14 | 0072_oylik_byudjet_reja.mp4 | Reklama byudjetini kunma-kun emas, oylik reja asosida bosqichlarga bo'lib taqsimlaymiz. | 18113279789628460
 0073 | 2026-11-17 08:14 | 0073_joylashuvlarni_ajratish.mp4 | Instagram va Facebook joylashuvlarini birdaniga emas, natijaga qarab alohida tekshirib ajratish kerak. | 18191591776417033
 0074 | 2026-11-17 09:14 | 0074_video_uzunligi.mp4 | Reels reklamada video uzunligini taxmin bilan emas, 15, 30 va 60 soniyani sinab ko'rib tanlaymiz. | 18028865825866898
+0075 | 2026-11-17 10:14 | 0075_tuzatish_rejasi.mp4 | Reklamadan natija bo'lmasa, uni to'xtatishdan oldin aniq tuzatish rejasi bo'yicha qadamma-qadam tekshiramiz. | 18042553988892933
