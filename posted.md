@@ -86,3 +86,4 @@ XATO | 2026-11-13 19:11 | 0026_byudjet_oshirish.mp4 | Byudjetni oshirganda CAC o
 0074 | 2026-11-17 09:14 | 0074_video_uzunligi.mp4 | Reels reklamada video uzunligini taxmin bilan emas, 15, 30 va 60 soniyani sinab ko'rib tanlaymiz. | 18028865825866898
 0075 | 2026-11-17 10:14 | 0075_tuzatish_rejasi.mp4 | Reklamadan natija bo'lmasa, uni to'xtatishdan oldin aniq tuzatish rejasi bo'yicha qadamma-qadam tekshiramiz. | 18042553988892933
 0076 | 2026-11-17 11:15 | 0076_mijoz_yoli.mp4 | Reklamadan sotuvgacha mijoz bir necha qadamdan o'tadi va har bir qadamda uni yo'qotmaslik kerak. | 18455920030134877
+0077 | 2026-11-17 12:14 | 0077_kafolat_taklif.mp4 | Kafolat va risksiz taklif mijozning qo'rquvini kamaytiradi va ariza qoldirishni osonlashtiradi. | 18192745558408954
