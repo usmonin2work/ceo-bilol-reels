@@ -97,7 +97,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] F: Reklamada ijtimoiy raqamlar — "1000+ mijoz" kabi dalillar qachon ishlaydi
 - [x] S: Reklamangiz qaysi auditoriyaga pul sarflayotganini auditda ko'rsatamiz
 - [x] F: Bitta reklamada bitta g'oya — ko'p xabar nega chalkashtiradi
-- [ ] F: Reklama matnidagi CTA — "batafsil" emas, aniq harakat yozish
+- [x] F: Reklama matnidagi CTA — "batafsil" emas, aniq harakat yozish
 - [ ] S: Birinchi oyda qaysi raqamlarni maqsad qilib qo'yamiz
 - [ ] F: Reels reklamada matn ekranda qancha turishi kerak
 - [ ] F: Mahsulotni ishlatib ko'rsatish — demo video nega sotadi
