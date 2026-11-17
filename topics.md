@@ -94,3 +94,33 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [ ] F: Bir kunlik byudjetni keskin oshirish xavfi
 - [ ] S: Sotuvchilaringiz uchun lid bilan ishlash skriptini ko'rib chiqamiz
 - [ ] F: Hisobotdagi vanity metrikalar — like va ko'rishlar aldaydi
+- [ ] F: Reklamada ijtimoiy raqamlar — "1000+ mijoz" kabi dalillar qachon ishlaydi
+- [ ] S: Reklamangiz qaysi auditoriyaga pul sarflayotganini auditda ko'rsatamiz
+- [ ] F: Bitta reklamada bitta g'oya — ko'p xabar nega chalkashtiradi
+- [ ] F: Reklama matnidagi CTA — "batafsil" emas, aniq harakat yozish
+- [ ] S: Birinchi oyda qaysi raqamlarni maqsad qilib qo'yamiz
+- [ ] F: Reels reklamada matn ekranda qancha turishi kerak
+- [ ] F: Mahsulotni ishlatib ko'rsatish — demo video nega sotadi
+- [ ] S: Lidlaringiz sifatini 3 ta savol bilan tekshirib beramiz
+- [ ] F: Muammo — yechim — natija: oddiy reklama ssenariysi
+- [ ] F: Reklamani to'xtatib qayta yoqish — nega natijani buzadi
+- [ ] S: Kreativ testlar rejasini biznesingiz uchun tuzib beramiz
+- [ ] F: Ovozsiz tomosha — reklama ovozsiz ham tushunarli bo'lishi kerak
+- [ ] F: Aksiya muddati — cheklangan vaqt taklifi qachon halol ishlaydi
+- [ ] S: Reklama va Direct javoblari orasidagi uzilishni topamiz
+- [ ] F: Bir nechta mahsulot — har biriga alohida kreativ kerakmi
+- [ ] F: Kampaniya maqsadi — trafik, xabar yoki konversiya qaysi biri
+- [ ] S: Sotuv mavsumidan oldin reklama tayyorgarligini tekshiramiz
+- [ ] F: Mijozning og'riq nuqtasi — reklamani muammodan boshlash
+- [ ] F: Reklamadagi narx bo'lib to'lash — muddatli to'lov taklifi
+- [ ] S: Byudjetingiz qancha lid berishi mumkinligini oldindan hisoblaymiz
+- [ ] F: Ekspert yuzi — biznes egasi reklamada chiqishi kerakmi
+- [ ] F: Reklama natijasini haftalik emas, kunlik baholash xatosi
+- [ ] S: Raqobatchilardan farqingizni reklamada qanday ko'rsatamiz
+- [ ] F: Oldin va keyin formati — natijani vizual ko'rsatish
+- [ ] F: Lidni qayta qizdirish — javob bermagan mijozga qayta yozish
+- [ ] S: Kabinetingizdagi ishlamayotgan reklamalarni ajratib beramiz
+- [ ] F: Reklama sarlavhasi — birinchi qatorda foyda yozish
+- [ ] F: Bepul maslahat taklifi — lid sifatini qanday saqlash kerak
+- [ ] S: Reklamaga sarflangan har 1 so'm qaytishini hisoblab beramiz
+- [ ] F: Kreativ arxivi — ishlagan reklamalarni saqlab qayta ishlatish
