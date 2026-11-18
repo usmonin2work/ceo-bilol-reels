@@ -99,3 +99,4 @@ XATO | 2026-11-13 19:11 | 0026_byudjet_oshirish.mp4 | Byudjetni oshirganda CAC o
 0087 | 2026-11-18 07:14 | 0087_auditoriya_auditi.mp4 | Reklamangiz pulni qaysi auditoriyaga sarflayotganini bepul auditda aniq ko'rsatib beramiz. | 18121164148973525
 0088 | 2026-11-18 08:15 | 0088_bitta_goya.mp4 | Bitta reklamaga ko'p xabar tiqilsa, odam hech birini eslab qolmaydi, shuning uchun har reklamada bitta g'oya bo'lsin. | 18378741244210596
 0089 | 2026-11-18 09:14 | 0089_aniq_cta.mp4 | Reklama oxirida «batafsil» emas, odam aynan nima qilishi kerakligini aniq yozsangiz, ariza ko'payadi. | 18147396976589110
+0090 | 2026-11-18 10:14 | 0090_birinchi_oy_maqsadlari.mp4 | Reklamaning birinchi oyida sotuv emas, avval ariza narxi va arizadan sotuvga o'tish foizini maqsad qilib qo'yamiz. | 18012434771778202
