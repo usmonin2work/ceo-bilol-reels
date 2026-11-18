@@ -97,3 +97,4 @@ XATO | 2026-11-13 19:11 | 0026_byudjet_oshirish.mp4 | Byudjetni oshirganda CAC o
 0085 | 2026-11-17 20:17 | 0085_vanity_metrikalar.mp4 | Ko'p like va ko'rishlar chiroyli ko'rinadi, lekin reklama samarasini faqat arizalar va sotuvlar ko'rsatadi. | 18648759046061774
 0086 | 2026-11-17 21:16 | 0086_ijtimoiy_raqamlar.mp4 | «1000+ mijoz» degan raqam faqat aniq va tekshirsa bo'ladigan bo'lsa, reklamaga ishonch qo'shadi. | 18101491100646333
 0087 | 2026-11-18 07:14 | 0087_auditoriya_auditi.mp4 | Reklamangiz pulni qaysi auditoriyaga sarflayotganini bepul auditda aniq ko'rsatib beramiz. | 18121164148973525
+0088 | 2026-11-18 08:15 | 0088_bitta_goya.mp4 | Bitta reklamaga ko'p xabar tiqilsa, odam hech birini eslab qolmaydi, shuning uchun har reklamada bitta g'oya bo'lsin. | 18378741244210596
