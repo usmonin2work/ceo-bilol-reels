@@ -104,7 +104,7 @@ Har 3-video sotuvchi (S) bo'lsin, qolganlari foydali (F).
 - [x] S: Lidlaringiz sifatini 3 ta savol bilan tekshirib beramiz (takror: 0022 — o'tkazildi)
 - [x] F: Muammo — yechim — natija: oddiy reklama ssenariysi (takror — o'tkazildi)
 - [x] F: Reklamani to'xtatib qayta yoqish — nega natijani buzadi
-- [ ] S: Kreativ testlar rejasini biznesingiz uchun tuzib beramiz
+- [x] S: Kreativ testlar rejasini biznesingiz uchun tuzib beramiz
 - [ ] F: Ovozsiz tomosha — reklama ovozsiz ham tushunarli bo'lishi kerak
 - [ ] F: Aksiya muddati — cheklangan vaqt taklifi qachon halol ishlaydi
 - [ ] S: Reklama va Direct javoblari orasidagi uzilishni topamiz
